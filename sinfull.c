@@ -94,8 +94,8 @@ banner = """\033[1;00m
 """
 
 altbanner = """
-			      Angels go to heaven
-			   Demons meet the gates of hell
+			      Edits go to Edits
+			   Humans go to heaven like normal
 		      Sinfull people are punished put in hell
 		      		  S I N F U L L 
 """
